@@ -1,9 +1,13 @@
 import React from 'react'
+import Footer from "../components/Footer"
 
-const new = () => {
+
+const add = () => {
   return (
-    <div>new</div>
+    <div>
+
+    </div>
   )
 }
 
-export default new
+export default add
